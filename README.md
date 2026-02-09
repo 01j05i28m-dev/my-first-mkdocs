@@ -83,3 +83,22 @@ This material was developed by the RCDS team at ECRI.
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
 
 ![ECRI logo](docs/assets/ecri-banner.png)
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
+> # Foo
+> bar
+> baz
+
+| abc | def |
+| --- | --- |
+| bar | baz |
+bar
+
+bar
+
+| abc | defghi |
+:-: | -----------:
+bar | baz
